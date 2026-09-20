@@ -5,7 +5,7 @@ A Codex skill for producing evidence-based, one-page U.S. new-graduate resumes t
 ## What it does
 
 - Analyzes the target role, required skills, keywords, and evidence gaps.
-- Evaluates the resume for both ATS coverage and human-readable storytelling.
+- Independently evaluates the resume from the resume and job description, using established U.S. resume practices; no external reviewer output is required.
 - Writes bullets that connect action, business or user purpose, and impact.
 - Uses candidate-supplied degree details and asks when a full official degree name is missing or ambiguous.
 - Shows a local rendered preview for feedback before publishing a Google Doc.
@@ -18,7 +18,7 @@ Copy the `us-new-grad-resume-google-docs` directory into your Codex skills direc
 $us-new-grad-resume-google-docs
 ```
 
-Provide a current resume and the target job description. You may optionally paste feedback from an external resume reviewer; the skill checks it against the job description and your supplied evidence rather than accepting it uncritically.
+Provide a current resume and the target job description. You may optionally paste feedback from an external resume reviewer after the skill's independent evaluation; it checks that feedback against the job description and your supplied evidence rather than accepting it uncritically.
 
 ## License
 

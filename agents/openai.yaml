@@ -1,0 +1,7 @@
+interface:
+  display_name: "U.S. New-Grad Resume Tailoring"
+  short_description: "Tailor and publish U.S. new-grad resumes"
+  default_prompt: "Use $us-new-grad-resume-google-docs to tailor my resume to this job description and publish the finished Google Doc."
+
+policy:
+  allow_implicit_invocation: true

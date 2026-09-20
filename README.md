@@ -1,6 +1,6 @@
 # U.S. New-Grad Resume Tailoring
 
-A Codex skill that saves U.S. new graduates the unnecessary time spent manually formatting resumes. It produces an evidence-based, one-page resume tailored to a specific job description, then automatically uploads the approved version to Google Docs for backup or final human revision.
+A Codex skill that saves U.S. new graduates the unnecessary time spent manually formatting resumes. It produces an evidence-based, one-page resume tailored to a specific job description, then automatically (after you allow it) uploads the approved version to Google Docs for backup or final human revision.
 
 ## What it does
 
